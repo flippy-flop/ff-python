@@ -30,6 +30,14 @@ flop2 = ff.flop()
 count = ff.count
 ```
 
+# Libraries 
+
+A Flippy Flop is an unpredictable data structure.
+Flip (insertion) and flop (removal) operations succeed at random.
+
+Find libraries [libraries.io](https://libraries.io/github).
+
+
 # Contact
 
 You can most easily reach me on twitter [@_Shakeel](http://twitter.com/_Shakeel).
